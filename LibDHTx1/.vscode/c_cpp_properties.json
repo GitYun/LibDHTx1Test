@@ -1,0 +1,42 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "msvc-x64"
+        },
+        {
+            "name": "STM32F0",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "E:/Program Files (x86)\\ST\\STM32CubeIDE_1.4.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/arm-none-eabi/include/**",
+                "C:/Users/deyi/STM32Cube/Repository/STM32Cube_FW_F0_V1.11.1/Drivers/STM32F0xx_HAL_Driver/Inc/**",
+                "C:/Users/deyi/STM32Cube/Repository/STM32Cube_FW_F0_V1.11.1/Drivers/STM32F0xx_HAL_Driver/Src/**",
+                "C:/Users/deyi\\STM32Cube/Repository/STM32Cube_FW_F0_V1.11.1/Drivers/CMSIS\\Device/ST/STM32F0xx/Include/**",
+                "C:/Users/deyi/STM32Cube/Repository/STM32Cube_FW_F0_V1.11.1/Drivers/CMSIS/Include/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "${default}",
+            "compilerPath": "E:/Program Files (x86)/ST/STM32CubeIDE_1.4.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/arm-none-eabi-gcc.exe",
+            "cStandard": "c99",
+            "cppStandard": "c++11",
+            "browse": {
+                "path": [
+                    "E:/Program Files (x86)/ST/STM32CubeIDE_1.4.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/arm-none-eabi/include"
+                ]
+            }
+        }
+    ],
+    "version": 4
+}

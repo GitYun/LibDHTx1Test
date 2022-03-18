@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "name": "win32",
+            "includePath": [
+                "e:\\SoftWare\\IDE\\Complier\\SDCC\\include\\mcs51",
+                "e:\\SoftWare\\IDE\\Complier\\SDCC\\include",
+                "e:\\SoftWare\\IDE\\Complier\\SDCC\\non-free\\include",
+                ".\\LibDHTx1\\src",
+                ".\\src"
+            ],
+            "defines": [
+                "DEBUG",
+                "__SDCC",
+                "__VSCODE_CPPTOOL"
+            ],
+            "intelliSenseMode": "${default}",
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "e:\\SoftWare\\IDE\\Complier\\SDCC\\include\\mcs51\\*",
+                    "e:\\SoftWare\\IDE\\Complier\\SDCC\\include\\*",
+                    "e:\\SoftWare\\IDE\\Complier\\SDCC\\non-free\\include\\*",
+                    ".\\LibDHTx1\\src\\*",
+                    ".\\src\\*"
+                ]
+            },
+            "forcedInclude": [
+                "c:\\Users\\youne\\.vscode\\extensions\\cl.eide-1.23.2\\bin\\include\\internal_headers\\c51_intr.h"
+            ]
+        }
+    ],
+    "version": 4
+}

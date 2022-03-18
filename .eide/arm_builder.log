@@ -1,0 +1,96 @@
+[2020-10-31 16:12:28]	link failed !, exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-31 16:14:47]	link failed !, exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-31 16:17:42]	link failed !, exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-31 16:22:17]	link failed !, exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-31 16:22:22]	link failed !, exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-31 16:24:12]	link failed !, exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-31 16:29:13]	link failed !, exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-01 09:53:26]	link failed !, exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-01 10:17:21]	link failed !, exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-01 10:34:03]	link failed !, exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-01 11:14:12]	compilation failed at : "f:\WorkPath\ProgramCode\MCS51\Mini51Sys\DHT11Test\LibDHTx1\src\Lib.DHTx1.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-01 11:14:18]	compilation failed at : "f:\WorkPath\ProgramCode\MCS51\Mini51Sys\DHT11Test\LibDHTx1\src\Lib.DHTx1.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-01 13:01:33]	compilation failed at : "f:\WorkPath\ProgramCode\MCS51\Mini51Sys\DHT11Test\src\ser_ir.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-01 13:41:14]	link failed !, exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-01 13:44:24]	compilation failed at : "f:\WorkPath\ProgramCode\MCS51\Mini51Sys\DHT11Test\src\main.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-01 13:44:41]	compilation failed at : "f:\WorkPath\ProgramCode\MCS51\Mini51Sys\DHT11Test\src\ser_ir.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-01 14:59:17]	link failed !, exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-01 15:31:42]	compilation failed at : "f:\WorkPath\ProgramCode\MCS51\Mini51Sys\DHT11Test\src\main.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-01 15:57:55]	compilation failed at : "f:\WorkPath\ProgramCode\MCS51\Mini51Sys\DHT11Test\LibDHTx1\src\Lib.DHTx1.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-01 15:59:16]	compilation failed at : "f:\WorkPath\ProgramCode\MCS51\Mini51Sys\DHT11Test\LibDHTx1\src\Lib.DHTx1.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-01 16:00:38]	compilation failed at : "f:\WorkPath\ProgramCode\MCS51\Mini51Sys\DHT11Test\LibDHTx1\src\Lib.DHTx1.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-01 16:01:13]	compilation failed at : "f:\WorkPath\ProgramCode\MCS51\Mini51Sys\DHT11Test\LibDHTx1\src\Lib.DHTx1.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-01 16:02:06]	compilation failed at : "f:\WorkPath\ProgramCode\MCS51\Mini51Sys\DHT11Test\LibDHTx1\src\Lib.DHTx1.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-01 16:08:36]	compilation failed at : "f:\WorkPath\ProgramCode\MCS51\Mini51Sys\DHT11Test\src\main.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-01 16:20:26]	compilation failed at : "f:\WorkPath\ProgramCode\MCS51\Mini51Sys\DHT11Test\LibDHTx1\src\Lib.DHTx1.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-01 16:20:54]	compilation failed at : "f:\WorkPath\ProgramCode\MCS51\Mini51Sys\DHT11Test\LibDHTx1\src\Lib.DHTx1.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-01 16:21:11]	compilation failed at : "f:\WorkPath\ProgramCode\MCS51\Mini51Sys\DHT11Test\LibDHTx1\src\Lib.DHTx1.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-01 16:21:19]	compilation failed at : "f:\WorkPath\ProgramCode\MCS51\Mini51Sys\DHT11Test\LibDHTx1\src\Lib.DHTx1.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-01 16:21:33]	compilation failed at : "f:\WorkPath\ProgramCode\MCS51\Mini51Sys\DHT11Test\LibDHTx1\src\Lib.DHTx1.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-01 16:23:21]	compilation failed at : "f:\WorkPath\ProgramCode\MCS51\Mini51Sys\DHT11Test\LibDHTx1\src\Lib.DHTx1.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-01 16:49:34]	compilation failed at : "f:\WorkPath\ProgramCode\MCS51\Mini51Sys\DHT11Test\LibDHTx1\src\Lib.DHTx1.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-01 16:54:59]	link failed !, exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+

@@ -1,0 +1,19 @@
+{
+    "device": "stc12",
+    "baudrate": "115200",
+    "port": "COM4",
+    "handshakeBaudrate": "4800",
+    "option": {
+        "clock_source": "external",
+        "clock_gain": "low",
+        "watchdog_prescale": "256",
+        "watchdog_por_enabled": "false",
+        "watchdog_stop_idle": "true",
+        "bsl_pindetect_enabled": "false",        
+        "eeprom_erase_enabled": "false",
+        "low_voltage_reset": "low",
+        "oscillator_stable_delay": "4096",
+        "por_reset_delay": "long",
+        "reset_pin_enabled": "true"
+    }
+}
